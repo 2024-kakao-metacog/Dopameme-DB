@@ -1,6 +1,6 @@
 # 설명
 
-    Dopameme Project를 위한 PostgreSQL Database 입니다.
+Dopameme Project를 위한 PostgreSQL Database 입니다.
 
 <br>
 
